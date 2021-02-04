@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo_List_View</string>
+
+    <string name="jsondata">
+                {
+                    \"formulas\":
+                        [
+                                \"Linear Motion\",
+                                \"Constant Acceleration Motion\",
+                                \"Force\",
+                                \"Work, Power ,Energy\",
+                                \"Rotary Motion\",
+                                \"Harmonic Motion\",
+                                \"Gravity\",
+                                \"Electrostatics\"
+                        ]
+        }
+    </string>
+</resources>
